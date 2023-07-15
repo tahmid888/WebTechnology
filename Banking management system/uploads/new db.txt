@@ -1,0 +1,6 @@
+/* function inseruser($username, $phone, $nid, $email, $sex, $dob, $city, $address, $bankusertype, $picture, $password, $cpassword, $newuser, $conn)
+    {
+        $sqlstr = "INSERT INTO $newuser (username, phone, nid, email, sex, dob, city, address, bankusertype, picture, password, cpassword) 
+        VALUES ('$username', '$phone', '$nid', '$email', '$sex', '$dob', '$city', '$address', '$bankusertype', '$picture', '$password', '$cpassword')";
+        return $conn->query($sqlstr);  $userwidthraw
+    } */ 
